@@ -97,7 +97,15 @@ We are trying to find some materials for leaving this primitive native planet.
 
 ----------------------
 
+<<<<<<< HEAD
 Tina Liang
 
 After a few minuets, we finally find something! Thanks god!
 ________________________
+=======
+Suddenly, the leader of the Urrgurrl tribe emerged from the crowd and it was Nicolas Cage
+
+-Holly Bun
+
+----------------------
+>>>>>>> origin/master
